@@ -197,7 +197,9 @@ Before using this power, replace the following placeholders in `mcp.json`:
 
 ## License and Support
 
-This power integrates with [n8n MCP Server](https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/) ([Sustainable Use License](https://github.com/n8n-io/n8n/blob/master/LICENSE.md)).
+This power is licensed under [MIT](https://spdx.org/licenses/MIT.html).
+
+It integrates with [n8n MCP Server](https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/) ([Sustainable Use License](https://github.com/n8n-io/n8n/blob/master/LICENSE.md)).
 
 - [n8n Privacy Policy](https://n8n.io/legal/privacy/)
 - [Support](mailto:shark9248@gmail.com)
