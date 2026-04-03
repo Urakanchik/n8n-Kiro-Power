@@ -32,7 +32,7 @@ A [Kiro Power](https://kiro.dev) that connects your IDE to your n8n instance via
 5. Edit `powers/n8n/mcp.json` and replace the placeholders with your real values:
    - `YOUR_N8N_MCP_SERVER_URL` → your n8n MCP URL (e.g. `https://your-instance.app.n8n.cloud/mcp-server/http`)
    - `YOUR_N8N_MCP_ACCESS_TOKEN` → your MCP access token
-6. Reinstall the power so it picks up the updated config
+6. The power auto-detects config changes — check the MCP Servers view in Kiro to confirm it reconnects
 
 **Option B — From GitHub:**
 

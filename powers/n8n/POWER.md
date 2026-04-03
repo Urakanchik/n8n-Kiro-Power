@@ -155,7 +155,7 @@ Use `publish_workflow` to activate a workflow for production execution, or `unpu
 ### "Authorization failed" errors
 - Your access token may have been rotated — generate a new one and update the mcp.json config
 - Ensure you have instance owner or admin permissions
-- After rotating, reinstall the power so it picks up the new token
+- After updating the config, check the MCP Servers view in Kiro to confirm it reconnects
 
 ### validate_workflow always fails with "Cannot read properties of undefined"
 - This indicates your n8n instance version doesn't fully support the Workflow SDK
