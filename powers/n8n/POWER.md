@@ -3,7 +3,7 @@ name: "n8n"
 displayName: "n8n Workflow Automation"
 description: "Manage n8n workflows through MCP — search, create, edit, execute, and organize workflows directly from Kiro."
 keywords: ["n8n", "workflow", "automation", "n8n-mcp"]
-author: ""
+author: "Ihor Musiienko (WWG)"
 ---
 
 # n8n Workflow Automation
@@ -194,6 +194,13 @@ Before using this power, replace the following placeholders in `mcp.json`:
     2. Click "Connection details"
     3. Switch to the "Access Token" tab
     4. Copy the token (only visible on first visit — generate a new one if needed)
+
+## License and Support
+
+This power integrates with [n8n MCP Server](https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/) ([Sustainable Use License](https://github.com/n8n-io/n8n/blob/master/LICENSE.md)).
+
+- [n8n Privacy Policy](https://n8n.io/legal/privacy/)
+- [Support](mailto:shark9248@gmail.com)
 
 ---
 
